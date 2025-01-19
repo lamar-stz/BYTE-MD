@@ -7,8 +7,8 @@ module.exports = {
   "PREFIX": process.env.PREFIX || ".",
   "AUTO_READ_STATUS": process.env.AUTO_READ_STATUS === 'true',
   "MODE": process.env.MODE || "public",
-  "OWNER_NUMBER": process.env.OWNER_NUMBER || "923072380380",
-  "OWNER_NAME": process.env.OWNER_NAME || "Hamza",
+  "OWNER_NUMBER": process.env.OWNER_NUMBER || "255750353637",
+  "OWNER_NAME": process.env.OWNER_NAME || "Lamar",
   "ALWAYS_ONLINE": process.env.ALWAYS_ONLINE === 'true',
   "PRESENCE": process.env.PRESENCE || "online",
   "OMDB_API_KEY": process.env.OMDB_API_KEY || "76cb7f39",
@@ -26,7 +26,7 @@ module.exports = {
   "ANTI_BOT": process.env.ANTI_BOT === 'true',
   "PREMIUM_USERS": process.env.PREMIUM_USERS || "",
   "COUNTRY_BLOCK": process.env.COUNTRY_BLOCK === 'true',
-  "COUNTRY_BLOCK_CODE": process.env.COUNTRY_BLOCK_CODE || "972",
-  "EMOJI": process.env.EMOJI || "🙄",
+  "COUNTRY_BLOCK_CODE": process.env.COUNTRY_BLOCK_CODE || "255",
+  "EMOJI": process.env.EMOJI || "🤟",
   "AUTO_TYPING": process.env.AUTO_TYPING === 'true'
 };
